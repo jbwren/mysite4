@@ -1,0 +1,4 @@
+name = "missoula-monthly-v0-2"
+main = "src/worker.js"
+workers_dev = false
+compatibility_date = "2025-07-13"
